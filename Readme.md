@@ -1,0 +1,1 @@
+This project was made to prepare a To Do list where you can add, delete and complete the tasks you entered. 
